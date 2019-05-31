@@ -1,0 +1,8 @@
+li a {
+    color: ghostwhite;
+}
+
+body {
+    background: white url("images/godzilla.png") no-repeat;
+    background-size: 100%;
+}
